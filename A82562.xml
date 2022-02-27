@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech, confession &amp; prayer of Joyce Ebbs, to several ministers in the presse-yard at Newgate, and at the place of execution in Smithfield Rounds on Thursday last in the fore-noon. Immediately before she was bound to the stake, to be burnt alive, to ashes, for that horrid act and bloody murdering of her own husband at Dog and Bitch Yard near Drury Lane. : As also, the several passages that happened before her death; her heavie groans and shrieks in the fire, and the providing of a half sheet spread over with pitch, to shorten the time of her miserable torment.</title>
+            <author>Ebbs, Joyce, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82562</idno>
+            <idno type="STC">Wing E126aA</idno>
+            <idno type="STC">ESTC R174843</idno>
+            <idno type="EEBO-CITATION">47682897</idno>
+            <idno type="OCLC">ocm 47682897</idno>
+            <idno type="VID">172854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172854)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2653:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech, confession &amp; prayer of Joyce Ebbs, to several ministers in the presse-yard at Newgate, and at the place of execution in Smithfield Rounds on Thursday last in the fore-noon. Immediately before she was bound to the stake, to be burnt alive, to ashes, for that horrid act and bloody murdering of her own husband at Dog and Bitch Yard near Drury Lane. : As also, the several passages that happened before her death; her heavie groans and shrieks in the fire, and the providing of a half sheet spread over with pitch, to shorten the time of her miserable torment.</title>
+                  <author>Ebbs, Joyce, d. 1662.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Chambers,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and Executioners --  England --  Early works to 1800.</term>
+               <term>Women murderers --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172854:1"/>
+            <pb facs="tcp:172854:1"/>
+            <p>The laſt SPEECH, Confeſsion &amp; Prayer OF Joyce Ebbs, To ſeveral Miniſters in the Preſſe-yard at <hi>Newgate,</hi> and at the place of Execution in <hi>Smith<g ref="char:EOLhyphen"/>field Rounds</hi> on <hi>Thurſday</hi> laſt in the fore-noon.</p>
+            <p>Immediately before She was bound to the Stake, to be burnt alive, to aſhes, for that horrid Act, and Bloody murdering of her own Huſband at <hi>Dog</hi> and <hi>Bitch</hi> Yard near <hi>Drury Lane.</hi>
+            </p>
+            <p>As alſo, the ſeveral Paſſages that hap<g ref="char:EOLhyphen"/>pened before her death; her heavie groans and ſhrieks in the Fire, and the providing of a half ſheet ſpread over with Pitch, to ſhorten the time of her miſe<g ref="char:EOLhyphen"/>rable Torment.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Chambers,</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="confession">
+            <pb facs="tcp:172854:2"/>
+            <pb n="3" facs="tcp:172854:2"/>
+            <head>The laſt Speech and Confeſsion of <hi>Ioice Ebbs,</hi> to ſeveral Miniſters in the Preſſ-yard, and at the place of Execution in <hi>Smithfield</hi> Rounds on Thurſday laſt.</head>
+            <p>THE Subject of the enſuing Diſcourſe, and the woful Object beheld by many hundreds, hath occaſioned a brief Ab<g ref="char:EOLhyphen"/>ſtract of the Life and Death of the per<g ref="char:EOLhyphen"/>ſon condemned, whoſe name was <hi>Joice Ebbs,</hi> her place of livelyhood was in a houſe of wicked re<g ref="char:EOLhyphen"/>ſort, in <hi>Dog</hi> and <hi>Bitch</hi> yard near <hi>Drury</hi> Lane, her Huſband formerly was a Souldier, and coming home, he found her by her ſelf; and ſhe aſked him to eat ſome part of a Pye with her which ſhe had provided; but he having a mind to a Pipe of Tobacco, deſired her to help him to a Pipe, ſhe told him he ſhould have none, but he was reſol<g ref="char:EOLhyphen"/>ved to have a Pipe, upon which he went to the Cellar to take a Pipe; ſhe told him, if he did, ſhe would ſtab him with the Knife; upon which, ſhe
+<pb n="4" facs="tcp:172854:3"/> ris'd from the Table and followed him to the Cellar, and ſtab'd him in three ſeveral places, ſo that it proved mortal, and he immediately gave up the Ghoſt.</p>
+            <p>Upon which ſeveral Neighbours coming in they ſeized on her, carried her before a Juſtice, and her Mittimus was made for <hi>New-gate,</hi> where ſhe continued till the Seſſions following, and be<g ref="char:EOLhyphen"/>ing brought to the Barr ſhe was Arraigned, and confeſſed the cruel and bloody murther ſhe com<g ref="char:EOLhyphen"/>mitted on her Huſband, for which ſhe received Sentence according to the Law which was to be made faſt to a Stake, and burnt with Faggots at the uſual place in <hi>Smithfield Rounds.</hi> But plead<g ref="char:EOLhyphen"/>ing her Belley, ſhe was repreived, and ſent back again to <hi>Newgate</hi> where ſhe continued for the ſpace of ten Months.</p>
+            <p>Upon <hi>Fryday</hi> laſt being the <hi>19th.</hi> of <hi>May,</hi> the Court being ſet at the Seſſions-houſe in the <hi>Old Bayly;</hi> the ſaid <hi>Joyce Ebbs</hi> was called down to the Barr in Order to her former judgement; where being come down, the Clark of the Peace after ſilence in the Court, ſaid,</p>
+            <p>
+               <hi>Joyce Ebbs,</hi> hold up thy hand; which ſhe did as formerly.</p>
+            <p>Upon which he read over the Indictment, to this effect, <hi>viz. Joyce Ebbs</hi> thou ſtandeſt here In<g ref="char:EOLhyphen"/>dicted and Convicted for Petty Treaſon, for the horrid and bloudy Murther committed by thy own hands on <hi>Thomas Ebbs</hi> thy husband, for which you were formerly Sentenced according to the Law of this Nation, to be Burnt to death; but plead<g ref="char:EOLhyphen"/>eſt thy Belly; whereupon the Honourable Bench
+<pb n="5" facs="tcp:172854:3"/> ordered that a Jury of Women ſhould be called, which was accordingly done, and they bringing thee in quick preſerved thee from death for the ſpace of ten moneths, canſt thou ſay any thing for thy ſelf, why thou ſhouldeſt not ſuffer accor<g ref="char:EOLhyphen"/>ding to thy former Sentence; ſhe anſwered no, but withal deſired the mercy of the Honourable Bench.</p>
+            <p>The Right Honourable the Recorder told her, ſhe had had a long time of mercy by pleading her Belly, yet it appeared not ſo, though ſhe had lyen ten moneths in cuſtody; to which ſhe anſwered, that ſhe had a Miſchance in the time of her Im<g ref="char:EOLhyphen"/>priſonment.</p>
+            <p>Whereupon it was again demanded of her, what ſhe could ſay for her ſelf, that ſhe ſhould not ſuffer according to her former Judgement; ſhe ſaid, ſhe could not plead her Belly, for ſhe had not deſerved for it with any ſince the time of her Commitment.</p>
+            <p>Upon which the Court Ordered, that ſhe ſhould return to the place from whence ſhe came there to continue till <hi>Thurſday</hi> next, being the two and twentieth day of <hi>May,</hi> from whence ſhe ſhould go to <hi>Smith-field</hi> Rounds, and there be Burnt till ſhe were dead, dead, according to her former Judgement.</p>
+            <p>Which accordingly was put in execution, be<g ref="char:EOLhyphen"/>twixt ten and eleven of the clock in the forenoon being guarded from <hi>New-gate</hi> to <hi>Smith-field,</hi> by many of the Sheriffs Officers; ſhe was array<g ref="char:EOLhyphen"/>ed and attired in White, having a branch of Roſe<g ref="char:EOLhyphen"/>mary in one hand, and a Noſe-gay in her Boſom; But not to omit that which is very obſervable,
+<pb n="6" facs="tcp:172854:4"/> even from the firſt time of her receiving Judge<g ref="char:EOLhyphen"/>ment, ſhe was admoniſhed to read and meditate much on that Text, <hi>Eſa.</hi> 57. 15. by which means ſhe gained very much, and by little and little a<g ref="char:EOLhyphen"/>bundance of ſpiritual comfort flowed into her heart; in which condition, ſhe continued many moneths, even until her death; and at ſeverall times ſome Reverend Divines coming to her, a<g ref="char:EOLhyphen"/>mongſt whom was Mr. <hi>Cook,</hi> giving of her good Inſtructions, and exhorting her to Repentance, to ſeek unto God for mercy, and to ground her Salvation upon the pretious bloud and merits of our Lord and Saviour Jeſus Chriſt; upon which, with tears trickling down her cheeks, ſhe ac<g ref="char:EOLhyphen"/>knowledged that ſhe had been a wicked liver, and too too lewd in life and converſation, deſiring o<g ref="char:EOLhyphen"/>thers might take warning by her; for that by her vicious wayes and practiſes, ſhe had ſundry times been aſſaulted with grievous temptations, and that her ſins had made her a prey to Satan, wiſh<g ref="char:EOLhyphen"/>ing that ſhe had never been born, or that ſhe had been made any other Creature then a Woman, crying, <hi>Wo, wo, wo, a weak, a woful, a wretched, and moſt miſerable woman!</hi> but at length, by Gods wonderful mercy, through the unwearied pains of many good Miniſters, at ſeveral times, and eſ<g ref="char:EOLhyphen"/>pecially on thurſday morning laſt, that ſhe re<g ref="char:EOLhyphen"/>ceived great comfort, expreſſing her ſelf with much penitency, and crying out, <hi>Wonderful, won<g ref="char:EOLhyphen"/>derful</hi> are <hi>the riches of thy mercy, and ſaving grace, O thy love is unſpeakable, in dealing ſo graciouſly with me! O Lord my God, bleſsed be thy Holy Name for evermore, which hath ſhewed me the path of life;
+<pb n="7" facs="tcp:172854:4"/> I ſeek thy mercy, and am aſſured of thy love; O bleſ<g ref="char:EOLhyphen"/>ſed be the Lord, that hath thus comforted me,</hi> And for the joy which at this inſtant my ſoul feeleth, bleſſed be his Name for evermore.</p>
+            <p>Having ſpent ſome time in prayer at <hi>Newgate,</hi> ſhe immediately went to the Stake, where ſhe end<g ref="char:EOLhyphen"/>ed her life very penitently, and when the fire was going to be kindled, ſhe cryed out, Lord Jeſus ſtrengthen me, bleſſed Father comfort me, I com<g ref="char:EOLhyphen"/>mend my ſpirit into thy hands, <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> re<g ref="char:EOLhyphen"/>deem'd it; Oh what a happy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall I make from night to day, from darkneſs to light, and from death to life; and now thou fiery Chariot, that cam'ſt down to fetch up <hi>Elijah,</hi> carry my poor ſoul to its happy hold, and all ye Bleſſed Angels that attended the Soul of <hi>Lazarus,</hi> to bring it to Heaven, bear me, oh bear me into the boſome of my beſt beloved; <hi>Amen, Amen; come, Lord Ieſus, come quickly;</hi> And ſo ſhe departed this life, with three or four doleſom ſhrieks, when the flames of fire firſt ſeized her body.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
